@@ -6,11 +6,8 @@ A Windows XP machine/VM (it won't work on 10)
 
 Internet explorer(XP preinstalled version will work but preferable on IE7)
 
-Some type of localhost server(for the files)
-
+Some type of server(for the files)
 
 Make sure the 2003 client is in the proper directory (/Program Files/Disney/Disney Online/Toontown/)
 
-Right now I'm using a modified SWF, the movie does work however the percent gets stuck. I am also missing a swf: messages.swf, that would complete the collection and make everything work almost exactly like in 2002. 
-
-If you or anyone you know has any good Toontown artifacts from 2002-pre launch, or is willing to help me properly restore this, please contact me. It would be greatly appreciated
+Right now I'm using a modified SWF, the movie.swf does work however the percent gets stuck. I am also missing a swf: messages.swf, that would complete the collection, so if you know someone who has it possibly saved, please contact me.
