@@ -1,12 +1,12 @@
 PATCHER_VERSION_STRING_SERVER=V1.0.1.46
 PATCHER_VERSION_STRING_SERVER_OSX=V1.0.1.46
 GAME_VERSION_TEXT=sv1.0.47.18
-DOWNLOAD_PATCHER_CURRENT_VERSION=ToontownLauncher.exe
+DOWNLOAD_PATCHER_CURRENT_VERSION=InstallLauncher.exe
 DOWNLOAD_PATCHER_CURRENT_VERSION_OSX=ToontownLauncher.zip
 
 ACCOUNT_SERVER=https://toontown.go.com
 
-GAME_SERVER=https://gameserver-lv.toontown.com
+GAME_SERVER=http://rocketprogrammer.me/
 PANDA_DOWNLOAD_URL=http://download.toontown.com/english/currentVersionWIN/content
 
 PATCHER_BASE_URL_HEAVY_LIFTING=http://cdn.download.toontown.com/english/currentVersionWIN/content/;http://download.toontown.com/english/currentVersionWIN/content/

@@ -24,15 +24,13 @@ function imgOff(imageName) {
 </script>  <META HTTP-EQUIV="Pragma" CONTENT="no-cache"></head>
 <font face="verdana, arial, helvetica, sans-serif" size="1">
 <table width="100%" border=0 bgcolor=#ffaa88 cellpadding=0><tr>
-<td align=center valign=center><b>This is the Toontown Test Server.</b><br>
-If you are here by mistake, please <a href=http://play.toontown.com>Play Toontown Here</a> instead.
-</td>
+
 </tr>
 <tr>
 </tr></table>
 
 
-<body bgcolor=#ff6633 text=#000000 link=#4477ff vlink=#4455bb alink=#ff5555
+<body bgcolor=#4477ff text=#000000 link=#4477ff vlink=#4455bb alink=#ff5555
     leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 onload="return openToontown()" >
 <font face="verdana, arial, helvetica, sans-serif" size="1">
 <table width="718" align=center border=0 cellpadding="0" cellspacing=0 bgcolor=#ffffff>
@@ -115,34 +113,26 @@ if (document.images) {
   play_off.src = "images/button_play.gif";
 }
 </script>
-    <a href="about.php"
+<a href="about.php"
     onMouseOver="imgOn('button_about')"
     onMouseOut="imgOff('button_about')">
     <img border=0 src="images/button_about.gif" name="button_about"></a><br>
-  <a href="comingSoon.php"
-    onMouseOver="imgOn('button_comingsoon')"
-    onMouseOut="imgOff('button_comingsoon')">
-    <img border=0 src="images/button_comingsoon.gif" name="button_comingsoon"></a><br>
-  <a href="backStage.php"
-    onMouseOver="imgOn('button_backstage')"
-    onMouseOut="imgOff('button_backstage')">
-    <img border=0 src="images/button_backstage.gif" name="button_backstage"></a><br>
-  <a href="news.php"
-    onMouseOver="imgOn('button_news')"
-    onMouseOut="imgOff('button_news')">
-    <img border=0 src="images/button_news.gif" name="button_news"></a><br>
-  <img border=0 src="images/button_account.gif" name="button_account"
-    onMouseOver="imgOn('button_account')"
-    onMouseOut="imgOff('button_account')"
-    onClick="DoAccount()"><br>
-  <a href="faq.php"
+<a href="screenShots.php"
+    onMouseOver="imgOn('button_screenshots')"
+    onMouseOut="imgOff('button_screenshots')">
+    <img border=0 src="images/button_screenshots.gif" name="button_screenshots"></a><br>
+<a href="faq.php"
     onMouseOver="imgOn('button_faq')"
     onMouseOut="imgOff('button_faq')">
     <img border=0 src="images/button_faq.gif" name="button_faq"></a><br>
-  <a href="launchReportBug.php"
-    onMouseOver="imgOn('button_reportbug')"
-    onMouseOut="imgOff('button_reportbug')">
-    <img border=0 src="images/button_reportbug.gif" name="button_reportbug"></a><br>
+<a href="news.php"
+    onMouseOver="imgOn('button_news')"
+    onMouseOut="imgOff('button_news')">
+    <img border=0 src="images/button_news.gif" name="button_news"></a><br>
+<a href="signUp.php"
+    onMouseOver="imgOn('button_fanclub')"
+    onMouseOut="imgOff('button_fanclub')">
+    <img border=0 src="images/button_fanclub.gif" name="button_fanclub"></a><br>
   <table border=0 cellspacing=0><tr><td height=5></td></tr></table>
   <img border=0 onClick="playClick()" onMouseOver="imgOn('play')" onMouseOut="imgOff('play')"
         src="images/button_play.gif" name="play"><br>
@@ -238,7 +228,7 @@ function openToontown() {
 <h3>Starting Disney's Toontown Online...</h3>
 <CENTER>
 <FORM><INPUT TYPE="button" NAME="Button" VALUE="Click here to go to Toontown" onClick="openToontown()"></FORM>
-</CENTER> -->
+</CENTER>
 <p/>
 <div align="CENTER">
 <table border=0 cellpadding=0 cellspacing=0>
